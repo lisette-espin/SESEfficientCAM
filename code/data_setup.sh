@@ -14,6 +14,6 @@ mkdir -p ../data/UA_data/
 # Follow instructions in README.md
 
 # Set up the results directory
-mkdir -p ../results/imagery_out/imag_inter_OUTPUT/
+mkdir -p ../results/imagery_out/inter_OUTPUTS/
 mkdir -p ../results/model_data/logs/
 mkdir -p ../results/tmp/
